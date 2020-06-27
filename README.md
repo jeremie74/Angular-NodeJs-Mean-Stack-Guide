@@ -10,6 +10,8 @@
 
 ![alt text](https://github.com/jeremie74/NodeJs-Express-API-configu/blob/master/Mean%20Node.png)
 
+![alt text](https://github.com/jeremie74/NodeJs-Express-API-configu/blob/master/Mean%20MongoDb.png)
+
 ![alt text](https://github.com/jeremie74/NodeJs-Express-API-configu/blob/master/Restful%20API%20are%20stateless%20Backends.png)
 
 
